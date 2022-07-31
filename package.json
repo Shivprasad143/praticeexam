@@ -1,0 +1,22 @@
+{
+  "name": "praticeexam",
+  "version": "1.0.0",
+  "description": "pratice on node js with using docker ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shivprasad143/praticeExam.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shivprasad143/praticeExam/issues"
+  },
+  "homepage": "https://github.com/Shivprasad143/praticeExam#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
